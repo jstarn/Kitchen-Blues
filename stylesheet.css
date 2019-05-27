@@ -4,3 +4,13 @@ body {
  background-color: #77aacb;
  color: #FFFFFF;
 }
+
+.header {
+  background-color: #rgb(30, 80, 205)
+}
+h1 {
+  color: rgb(238, 100, 142);
+  font-family: serif, railway;
+  font-kerning: 12px;
+  font-size: 2em; 
+  }
