@@ -1,0 +1,71 @@
+
+/* stylesheet.css */
+
+
+font-family: 'Raleway', sans-serif;
+
+background {
+ background-image: url("https://images.pexels.com/photos/255501/pexels-photo-255501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+ background-position: center;
+ background-size: 100% 100%;
+ width:100%;
+
+}
+
+
+.header {
+  background-color: #rgb(30, 80, 205)
+}
+
+h1 {
+  color: rgb(238, 100, 142);
+  font-family: serif, railway;
+  font-kerning: 12px;
+  font-size: 2em;
+  }
+
+.area {
+  display:block;
+  background-color: #9bcded;
+  max-width: inherit;
+  width:100%;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding:20px;
+
+}
+
+#header {
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 50px;
+
+}
+.body {
+  max-width: 500px;
+  margin: auto;
+  padding:20px;
+  border-style:double;
+  border-color:green;
+  margin:auto;
+  text-align: center;
+  width: 500px;
+}
+
+p, h2 {
+  color: rgb(238, 100, 142);
+
+}
+.float-1 {
+  float: right;
+}
+
+.float-0 {
+  float:left;
+}
+.footer {
+
+}
